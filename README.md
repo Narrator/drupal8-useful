@@ -43,7 +43,7 @@ This is a collection of links that were super helpful for me when I was learning
 * [Examples 8.x-1.x | API reference | Drupal API ](https://api.drupal.org/api/examples)
 * [Chi-teck/drupal-code-generator: A code generator for Drupal.  ](https://github.com/Chi-teck/drupal-code-generator)
 * [Drupal 8 documentation | Drupal.org ](https://www.drupal.org/docs/8)
-* [GitHub - drupal-composer/drupal-project: Composer template for Drupal projects. Quick installation via "composer create-project drupal-composer/drupal-project","](https://github.com/drupal-composer/drupal-project  3000503)
+* [Composer Template for Drupal Project](https://github.com/drupal-composer/drupal-project)
 * [Site Building with Drupal | Drupal.org  ](https://www.drupal.org/site-building)
 * [Nodes, content types and fields | Drupal.org  ](https://www.drupal.org/docs/7/nodes-content-types-and-fields)
 * [Cron automated tasks | Drupal.org ](https://www.drupal.org/docs/8/cron-automated-tasks)
