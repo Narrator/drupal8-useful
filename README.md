@@ -2,6 +2,15 @@
 
 This is a collection of links that were super helpful for me when I was learning Drupal 8. Feel free  to contribute!
 
+* [General Overview](#general-overview)
+* [Package Management](#package-management)
+* [Coding Standards](#coding-standards)
+* [Development](#development)
+* [User Interface](#user-interface)
+* [Debugging](#debugging)
+* [Sublime Text with Drupal](#sublime-text-with-drupal)
+* [Other useful links](#other-useful-links)
+
 ## General Overview
 * [Development tools overview | Drupal.org ](https://www.drupal.org/docs/develop/development-tools/development-tools-overview)
 * [Development tools | Drupal.org  ](https://www.drupal.org/docs/develop/development-tools)
@@ -105,7 +114,7 @@ This is a collection of links that were super helpful for me when I was learning
 * [Debugging with Xdebug and Sublime Text 3  ](https://www.sitepoint.com/debugging-xdebug-sublime-text-3/)
 * [Discovering and Inspecting Variables in Twig Templates | Drupal.org ](https://www.drupal.org/docs/8/theming/twig/discovering-and-inspecting-variables-in-twig-templates)
 
-## IDE / Sublime text with Drupal
+## Sublime text with Drupal
 * [Drupal IDE | Drupal Groups  ](https://groups.drupal.org/drupal-ide)
 * [Configuring Sublime Text  ](https://www.drupal.org/docs/develop/development-tools/configuring-sublime-text)
 * [enzolutions/sublime-drupal: Sets up Sublime Text editor for Drupal development  ](https://github.com/enzolutions/sublime-drupal)
